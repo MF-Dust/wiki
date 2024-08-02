@@ -35,7 +35,7 @@ JDK(Java Development Kit) 又称 J2SDK(Java2 Software Development Kit)，是 Jav
 
 | Java 版本 | 名称            | Windows                                                                                                                                                         |
 |:-------:|:-------------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Java 8  | Zulu 8        | [点击下载]()                                                                                                                                                        |
+| Java 8  | Zulu 8        | [点击下载](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/OpenJDK/Azul%20Zulu/zulu8.76.0.17-ca-fx-jdk8.0.402-win_x64.msi)                                                                                                                                                        |
 | Java 11 | Dragonwell 11 | [点击下载](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/OpenJDK/Alibaba%20Dragonwell/Alibaba_Dragonwell_Extended_11.0.21.18.9_x64_windows.zip) |
 | Java 17 | Zulu 17       | [点击下载](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/OpenJDK/Azul%20Zulu/zulu17.48.15-ca-fx-jdk17.0.10-win_x64.msi)                         |
 | Java 21 | Zulu 21       | [点击下载](https://res.fastmirror.net/directlink/1/Java%20%E7%8E%AF%E5%A2%83/OpenJDK/Azul%20Zulu/zulu21.32.17-ca-fx-jdk21.0.2-win_x64.msi)                          |
