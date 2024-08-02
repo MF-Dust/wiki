@@ -19,7 +19,7 @@ JDK(Java Development Kit) 又称 J2SDK(Java2 Software Development Kit)，是 Jav
 ### 选择版本
 
 :::warning
-部分Mod对Java版本有强制要求,如[ModernUI]([[MUI]现代化 UI (Modern UI) - MC百科|最大的Minecraft中文MOD百科 (mcmod.cn)](https://www.mcmod.cn/class/2454.html))
+部分Mod对Java版本有强制要求,如[ModernUI](https://www.mcmod.cn/class/2454.html)
 :::
 
 | Minecraft 版本  | 最低版本    | 推荐版本    |
